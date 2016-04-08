@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testform", "testform\testfo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aadetect", "..\Aardvark\VisualStudio\aadetect.csproj", "{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFormCreation", "TestFormCreation\TestFormCreation.csproj", "{844CA081-296F-4E3B-8D5B-1104F5106447}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844CA081-296F-4E3B-8D5B-1104F5106447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844CA081-296F-4E3B-8D5B-1104F5106447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844CA081-296F-4E3B-8D5B-1104F5106447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844CA081-296F-4E3B-8D5B-1104F5106447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
