@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommanderAardvark", "CommanderAardvark\CommanderAardvark.csproj", "{5E4BA2F6-6567-4FB0-882E-B886DAEAEDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testform", "testform\testform.csproj", "{23CFB2C6-43D9-4532-B917-AA900EFEDBB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aadetect", "..\Aardvark\VisualStudio\aadetect.csproj", "{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E4BA2F6-6567-4FB0-882E-B886DAEAEDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4BA2F6-6567-4FB0-882E-B886DAEAEDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4BA2F6-6567-4FB0-882E-B886DAEAEDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4BA2F6-6567-4FB0-882E-B886DAEAEDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CFB2C6-43D9-4532-B917-AA900EFEDBB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CFB2C6-43D9-4532-B917-AA900EFEDBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CFB2C6-43D9-4532-B917-AA900EFEDBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CFB2C6-43D9-4532-B917-AA900EFEDBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CFDD69-676E-4AFC-AEE2-8E47A4F3A978}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
